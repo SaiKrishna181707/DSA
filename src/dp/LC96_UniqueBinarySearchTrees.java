@@ -1,3 +1,5 @@
+package dp;
+
 public class LC96_UniqueBinarySearchTrees {
     public int numTrees(int n) {
         long c = 1;
